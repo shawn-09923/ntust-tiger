@@ -1,0 +1,40 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Asset meta data should only be ignored when the corresponding asset is also ignored
+!/[Aa]ssets/**/*.meta
+
+# Visual Studio / Rider / VS Code
+/.vs/
+/.vscode/
+/.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity3D build outputs (the checked-in WebGL build under Build/tiger is kept intentionally)
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+/[Bb]uilds/
+
+# OS
+.DS_Store
