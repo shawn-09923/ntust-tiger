@@ -1,0 +1,10 @@
+{
+  "name": "ntust-tiger",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Convenience wrapper around serve.py, the static server for the Unity WebGL build in Build/tiger. There is no JS build step — the player is produced by Unity.",
+  "scripts": {
+    "dev": "python3 serve.py",
+    "start": "python3 serve.py"
+  }
+}
